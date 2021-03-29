@@ -1,0 +1,37 @@
+.mydiv{
+    margin-left: 50%;
+}
+.mynavbrand{
+    margin-left: 5%;
+}
+.mycontainer{
+    background-color: white;
+    box-shadow: 1px 1px 1px  black;
+    height: 50px;
+}
+.mycaption{
+    margin-bottom: 25%;
+}
+.mybtn{
+    background-color: orange;
+    border: none;
+}
+.mycontainer2{
+    background-color: #4b94c7;
+    height: 420px;
+    color: white;
+    
+}
+.mygrid{
+    border: 2px white solid;
+    text-align: center;
+    height: 250px;
+    margin-top: 3%;
+}
+.text2{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin-top: 15px;
+}
