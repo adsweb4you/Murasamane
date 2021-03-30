@@ -12,13 +12,22 @@
 .mycaption{
     margin-bottom: 25%;
 }
+
+
+.mygrid svg{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
 .mybtn{
     background-color: orange;
     border: none;
 }
 .mycontainer2{
     background-color: #4b94c7;
-    height: 420px;
+    /* height: 420px; */
     color: white;
     
 }
