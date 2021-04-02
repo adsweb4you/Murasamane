@@ -1,0 +1,281 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.sign-in{
+    margin-right:1%;
+    width:11%;
+    padding: 9px;
+}
+.log-in{
+    margin-right: 15%;
+    width:11%;
+    padding: 9px;
+    background-color:white;
+    color: black;
+   
+}
+.menus{
+    margin-left: 5%;
+}
+.logo{
+    margin-left: 10%;
+}
+.headercontainer{
+    position: relative;
+    left: 10%;
+    top: 5rem;
+}
+.headercontainer button{
+    background-color: #007bff;
+    color: white;
+    padding: 17px;
+    border-radius: 7px;
+    
+}
+ svg{
+     position: relative;
+     width: 22px;
+     height: 20px;
+ }
+ .headp{
+    font-weight: bolder;
+ }
+ .headp2{
+    font-size: 22px;
+    position: relative;
+ }
+ .lowerp{
+    font-size: 20px;
+    font-weight: bold;
+ }
+ .lowerp2{
+    font-size: 18px;
+ }
+ .lowerpcontainer{
+     position: relative;
+     top:8rem;
+ }
+.myitems{
+    position: relative;
+    right: 7%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    
+    
+}
+.firstborder{
+border-top-left-radius: 7px;
+border-bottom-left-radius: 7px;
+}
+.lastborder{
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    }
+.myitems:hover{
+    background-color: #3487f7;
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.middlegridcontainer{
+    position: relative;
+    top: 20rem;
+    left: 5rem;
+}
+.mastercardlogo{
+   width: 220px;
+   height: 77px;
+}
+.middletext{
+    text-align: center;
+    margin-top: 35rem;
+}
+.middletext p{
+    font-size: 24px;
+}
+.middletext h1{
+    font-weight: bold;
+}
+.middlesection{
+    position: relative;
+    top: 10rem;
+
+    
+}
+.middlesecdiv1 svg{
+    position: relative;
+    left:10rem;
+    width: 50px;
+    height: 50px;
+    border: solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:#3487f7;
+    color: white;
+}
+.middlesecdiv1 a{
+    position: relative;
+    left: 10rem;
+    font-weight: 700!important;
+    color: #5033FE;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+.middlesech1{
+    position: relative;
+    left: 10rem;
+    font-weight: 700;
+    font-size: 33px;
+}
+.topp{
+    position: relative;
+    left: 10rem;
+    width: 100%;
+    font-size: 18px;
+}
+.firstimage{
+    position: absolute;
+    right: 16rem;
+    bottom: -8rem;
+
+}
+.middlesecdiv2h1{
+    position: relative;
+    left: 45%;
+}
+.middlesecdiv2p{
+    position: relative;
+    left: 45%;  
+}
+.middlesecdiv2 img{
+    position: relative;
+    top: 26rem;
+    
+}
+.middlesecdiv2 svg{
+    position: relative;
+    left:8%;
+    top: 15rem;
+    width: 50px;
+    height: 50px;
+    border: solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:#3487f7;
+    color: white;
+}
+
+.middlesecdiv2 a{
+    position: relative;
+    left: 45%;
+    font-weight: 700!important;
+    color: #5033FE;
+    text-decoration: none;
+    background-color: transparent;
+}
+.middlesection3{
+    position: relative;
+    top: 20rem;
+}
+
+.middlesecdiv4h1{
+    position: relative;
+    left: 45%;
+}
+.middlesecdiv4p{
+    position: relative;
+    left: 45%;  
+}
+.middlesecdiv4 img{
+    position: relative;
+    top: 26rem;
+    
+}
+.middlesecdiv4 svg{
+    position: relative;
+    left:8%;
+    top: 15rem;
+    width: 50px;
+    height: 50px;
+    border: solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:#3487f7;
+    color: white;
+}
+
+.middlesecdiv4 a{
+    position: relative;
+    left: 45%;
+    font-weight: 700!important;
+    color: #5033FE;
+    text-decoration: none;
+    background-color: transparent;
+}
+.lastsection1{
+    position: relative;
+    top: 20rem;
+    left: 10rem;
+}
+.lastsection1 button{
+    position: relative;
+    left: 50%;
+    bottom: 3rem;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+.secondlast1{
+    position: relative;
+    top: 25rem;
+    text-align: center;
+}
+.lastsection2{
+    position: relative;
+    top: 30rem;
+}
+.lastsecimg{
+    height: 345px;
+    width: 500px;
+}
+.lastsection2 img{
+    border-radius: 8px;
+}
+.myownitem{
+    margin-top: 5rem;
+}
+.botgrid1{
+    border: 1px solid black;
+    border-radius: 7px;
+    margin: 3%;
+    padding: 5%;
+    text-align: center;
+}
+.botgridlast{
+    background-color: #070628;
+    color: #fff;
+}
+
+.lastp{
+    color: #afa7ff;
+}
+.bottomgrids{
+    text-align: center;
+    margin-top: 4%;
+}
+.lastbtn{
+    background-color: #463f93;
+}
+.footgrid a{
+ color: gray;
+ 
+}
+.footgrid svg{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+ 
+}
